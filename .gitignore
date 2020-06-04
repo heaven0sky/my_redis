@@ -4,6 +4,6 @@
 *.so
 *.rlib
 *.dll
-
+.idea
 # Executables
 *.exe
